@@ -6,7 +6,7 @@ These projects demonstrate my ability to assess, clean, validate, and document d
 
 Project One – Data Quality Plan
 
-📄 [DAT 325 Project One Nicole Hutto.docx]
+# [DAT 325 Project One Nicole Hutto.docx]
 Focus: Defining organizational goals and outlining a structured plan for ensuring data quality during a company merger.
 Key Deliverables:
 
@@ -19,7 +19,7 @@ Outcome: Developed a foundational strategy for reliable, compliant, and business
 
 Project Two – Executive Summary Report
 
-📄 [DAT 325 Project Two - Nicole Hutto.docx]
+# [DAT 325 Project Two - Nicole Hutto.docx]
 Focus: Profiling and transforming the newly acquired firm’s HR dataset for merger readiness.
 Key Deliverables:
 
@@ -35,7 +35,7 @@ DAT 325 Project Two - Nicole Hu…
 
 Project Three – Data Validation Report
 
-📄 [DAT 325 Project Three Nicole Hutto.docx]
+# [DAT 325 Project Three Nicole Hutto.docx]
 Focus: Applying data validation and statistical checks to cleaned datasets.
 Key Deliverables:
 
@@ -47,9 +47,7 @@ Created distribution plots to verify cleaned data integrity.
 Outcome: Produced validated datasets ready for analytics and reporting, demonstrating real-world data-cleaning proficiency.
 
 
-DAT 325 Project Three Nicole Hu…
-
-🧠 Skills Demonstrated
+# Skills Demonstrated
 
 Data Profiling & Exploration: Identifying missing values, duplicates, and anomalies.
 
